@@ -1,43 +1,42 @@
-<!-- =========================
-     HERO
-========================= -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Chalermsak%20Sinsrok&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20%E2%80%A2%20Backend%20%E2%80%A2%20Data%20%E2%80%A2%20IoT&descAlignY=58&descSize=18"
-    width="100%"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=CHALERMSAK%20SINSROK&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20DATA%20%E2%80%A2%20BACKEND%20%E2%80%A2%20IOT&descSize=17&descAlignY=58&color=0:020617,50:0f172a,100:1e293b" width="100%"/>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=700&height=45&lines=Building+Intelligent+Systems;AI+%26+Machine+Learning;Backend+%26+Data+Engineering;IoT+%26+Real-World+Systems"
-    alt="Typing SVG"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&multiline=false&width=720&height=45&lines=%5B+SYSTEM+READY+%5D;Building+Intelligent+Systems;Turning+Data+into+Real-World+Systems;AI+%2F+ML+%7C+Backend+%7C+Data+%7C+IoT" alt="Typing"/>
 
-<p align="center">
-  <a href="https://github.com/Chalermsak1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/Chalermsak1">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## About
+## `> whoami`
 
-I'm an undergraduate engineering student interested in building
-intelligent systems that connect **AI, data, software, and the physical world**.
+```text
+Name        : Chalermsak Sinsrok
+Role        : Engineering Student
+Interests   : AI / ML / Data / Backend / IoT
+Mindset     : Build → Test → Deploy → Iterate
 
-I enjoy working across the development process — from
-**data processing and machine learning** to **backend systems, APIs, deployment, and IoT**.
+Current Direction
+────────────────────────────────────────────
+AI Engineering
+Machine Learning
+Data Engineering
+Backend Systems
+Intelligent IoT
+```
 
 ---
 
-## Focus
+## `> system.focus`
 
 <table>
 <tr>
@@ -45,32 +44,41 @@ I enjoy working across the development process — from
 
 ### AI / ML
 
-Machine Learning  
-Computer Vision  
-NLP  
+```text
+Machine Learning
+Computer Vision
+NLP
 Predictive Analytics
+Model Development
+```
 
 </td>
 
 <td width="33%" align="center">
 
-### Data / Backend
+### DATA / BACKEND
 
-Data Engineering  
-API Development  
-PostgreSQL  
-Backend Systems
+```text
+Data Pipelines
+Feature Engineering
+REST APIs
+PostgreSQL
+Backend Architecture
+```
 
 </td>
 
 <td width="33%" align="center">
 
-### IoT / Systems
+### SYSTEMS / IoT
 
-IoT  
-Edge Systems  
-Sensors  
+```text
+IoT
+Edge Systems
+Sensors
+Real-Time Systems
 Intelligent Applications
+```
 
 </td>
 </tr>
@@ -78,205 +86,267 @@ Intelligent Applications
 
 ---
 
-## Tech Stack
+## `> tech --stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,react,nextjs,postgres,mysql,docker,git,github,linux&perline=6" />
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,react,nextjs,postgres,mysql,docker,git,github,linux&perline=6"/>
+
 </p>
 
 ---
 
-## Selected Projects
+## `> ls ./projects`
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### FloodTrace
+### `01` — FloodTrace
 
-Flood and environmental intelligence project
-built around geospatial data and real-world system analysis.
+> Flood & environmental intelligence
 
-<p>
-  <code>FastAPI</code>
-  <code>PostgreSQL</code>
-  <code>React</code>
-  <code>TypeScript</code>
-</p>
+A real-world data driven system focused on
+geospatial information, flood conditions,
+and evidence-based analysis.
+
+```text
+FastAPI
+PostgreSQL
+React
+TypeScript
+Geospatial Data
+```
 
 <a href="https://github.com/Chalermsak1/FloodTrace">
-  View Repository →
+View Project →
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Nexvia Aegis
+### `02` — Nexvia Aegis
 
-Engineering project focused on AI,
-security, and intelligent software systems.
+> AI / Security Engineering
 
-<p>
-  <code>Python</code>
-  <code>AI</code>
-  <code>Security</code>
-</p>
+A security-focused engineering project
+exploring intelligent software systems,
+automation, and defensive technologies.
+
+```text
+Python
+AI
+Security
+Automation
+```
 
 <a href="https://github.com/Chalermsak1/nexvia-aegis">
-  View Repository →
+View Project →
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### KMITL Flood Intelligence
+### `03` — KMITL Flood Intelligence
 
-Real-time flood intelligence project
-combining reports, geospatial information, and backend services.
+> Real-time flood intelligence
 
-<p>
-  <code>FastAPI</code>
-  <code>PostgreSQL</code>
-  <code>Next.js</code>
-</p>
+Combining incident reports, geospatial
+information, backend services, and
+real-time system design.
+
+```text
+FastAPI
+PostgreSQL
+Next.js
+Geospatial
+SSE
+```
 
 <a href="https://github.com/Chalermsak1/KMITL-Flood-Intelligence">
-  View Repository →
+View Project →
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### DeepLog HDFS Anomaly Detection
+### `04` — DeepLog HDFS Anomaly Detection
 
-Machine learning project for detecting
-abnormal patterns in distributed-system logs.
+> Log anomaly detection
 
-<p>
-  <code>Python</code>
-  <code>Machine Learning</code>
-  <code>Data</code>
-</p>
+Exploring anomaly detection on distributed
+system logs and identifying abnormal patterns.
+
+```text
+Python
+Machine Learning
+Log Analysis
+Data
+```
 
 <a href="https://github.com/Chalermsak1/DeepLog-HDFS-Anomaly-Detection">
-  View Repository →
+View Project →
 </a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Engineering Workflow
+## `> pipeline.run`
+
+```text
+                    REAL-WORLD DATA
+                           │
+                           ▼
+                 ┌──────────────────┐
+                 │ Data Collection  │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │ Data Processing  │
+                 │ Feature Engineer │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │   AI / ML Model  │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │ Backend / API    │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │    Deployment    │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │ Intelligent App  │
+                 └──────────────────┘
+```
+
+---
+
+## `> github --stats`
 
 <p align="center">
 
-<strong>Data</strong>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<strong>Model</strong>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<strong>Backend</strong>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<strong>Deployment</strong>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-<strong>Real-World System</strong>
+<img
+src="https://github-readme-stats.vercel.app/api?username=Chalermsak1&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github"
+height="180"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalermsak1&layout=compact&hide_border=true&langs_count=8"
+height="180"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=Chalermsak1&hide_border=true"
+height="180"
+/>
 
 </p>
 
 ---
 
-## GitHub
+## `> git log --activity`
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Chalermsak1&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalermsak1&layout=compact&hide_border=true&langs_count=8"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Chalermsak1&hide_border=true"
-    height="170"
-    alt="GitHub Streak"
-  />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Chalermsak1&hide_border=true&area=true&radius=10"
+width="100%"
+/>
+
 </p>
 
 ---
 
-## Currently Building
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**AI / ML**
-
-Exploring machine learning,
-computer vision, and intelligent applications.
-
-</td>
-
-<td width="50%" align="center">
-
-**Data / Backend**
-
-Building data pipelines,
-APIs, and data-driven services.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-**IoT**
-
-Connecting software,
-sensors, and intelligent processing.
-
-</td>
-
-<td width="50%" align="center">
-
-**Systems**
-
-Turning models and data
-into deployable real-world systems.
-
-</td>
-</tr>
-</table>
-
----
+## `> contribution --visualize`
 
 <p align="center">
 
-### Build. Learn. Ship.
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/Chalermsak1">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="profile/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="profile/github-snake.svg"
+  />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0f172a&height=100&section=footer"
+    src="profile/github-snake.svg"
+    alt="GitHub Contribution Snake"
     width="100%"
   />
+</picture>
+
+</p>
+
+---
+
+## `> current.mission`
+
+```text
+[██████████████████████████████████████] 100%
+
+Build intelligent systems
+that connect
+
+DATA
+  ↓
+AI / ML
+  ↓
+BACKEND
+  ↓
+DEPLOYMENT
+  ↓
+REAL WORLD
+```
+
+---
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://github.com/Chalermsak1">
+<img src="https://img.shields.io/badge/GitHub-View%20Repositories-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+```text
+BUILD SOMETHING USEFUL.
+```
+
+</div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e293b,50:0f172a,100:020617" width="100%"/>
 </p>
