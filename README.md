@@ -1,11 +1,7 @@
-<!-- =========================================================
-     HERO
-========================================================= -->
-
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=CHALERMSAK%20SINSROK&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20DATA%20%E2%80%A2%20BACKEND%20%E2%80%A2%20IOT&descSize=17&descAlignY=58&color=0:020617,50:0f172a,100:1e293b"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=CHALERMSAK%20SINSROK&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20DATA%20%E2%80%A2%20BACKEND%20%E2%80%A2%20IOT&descSize=17&descAlignY=58&color=0:020617,50:0f172a,100:1e293b"
   width="100%"
   alt="Chalermsak Sinsrok"
 />
@@ -13,176 +9,148 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1200&center=true&vCenter=true&width=760&height=45&lines=%5BSYSTEM+READY%5D;Building+Intelligent+Systems;Turning+Data+into+Real-World+Systems;AI+%2F+ML+%7C+Backend+%7C+Data+%7C+IoT"
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1100&center=true&vCenter=true&width=760&height=45&lines=%5BSYSTEM+READY%5D;Building+Intelligent+Systems;Turning+Data+into+Real-World+Systems;AI+%2F+ML+%7C+Backend+%7C+Data+%7C+IoT"
   alt="Typing animation"
 />
 
 <br><br>
 
 <a href="https://github.com/Chalermsak1">
-  <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/chalermsak-sinsrok-b416a3365/">
-  <img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 </div>
 
 <br>
 
-<!-- =========================================================
-     IDENTITY
-========================================================= -->
+---
 
 ## `> whoami`
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<div align="center">
 
 ### Chalermsak Sinsrok
 
-Engineering student interested in building systems that connect:
+**Engineering Student · AI / ML · Data · Backend · IoT**
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-ML%20%7C%20CV%20%7C%20NLP-020617?style=flat-square" />
+<img src="https://img.shields.io/badge/DATA-Engineering%20%7C%20Analytics-020617?style=flat-square" />
+<img src="https://img.shields.io/badge/BACKEND-APIs%20%7C%20PostgreSQL-020617?style=flat-square" />
+<img src="https://img.shields.io/badge/IoT-Systems%20%7C%20Edge-020617?style=flat-square" />
+
+<br><br>
+
+Building intelligent systems that turn  
+**real-world data → useful intelligence → deployable software.**
+
+</div>
+
+<br>
+
+<div align="center">
 
 ```text
-DATA
-  ↓
-INTELLIGENCE
-  ↓
-SOFTWARE
-  ↓
-REAL WORLD
+DATA  →  INTELLIGENCE  →  SOFTWARE  →  REAL WORLD
 ```
 
-I enjoy working across the development process —
-from **data preparation and machine learning**
-to **backend systems, APIs, deployment, and IoT**.
-
-</td>
-
-<td width="42%" valign="top">
-
-```text
-┌──────────────────────────────┐
-│          SYSTEM              │
-├──────────────────────────────┤
-│ Role       Engineering      │
-│ Focus      AI / ML           │
-│            Data              │
-│            Backend           │
-│            IoT               │
-│                              │
-│ Mindset    Build             │
-│            Test              │
-│            Deploy            │
-│            Iterate           │
-└──────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- =========================================================
-     FOCUS
-========================================================= -->
-
 ## `> system.focus`
+
+<div align="center">
 
 <table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td align="center" width="33%">
 
 ### AI / ML
 
-<br>
-
-**Machine Learning**
-
-**Computer Vision**
-
-**NLP**
-
-**Predictive Analytics**
-
-**Model Development**
+`Machine Learning`  
+`Computer Vision`  
+`NLP`  
+`Predictive Analytics`  
+`Model Development`
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td align="center" width="33%">
 
 ### DATA / BACKEND
 
-<br>
-
-**Data Engineering**
-
-**Feature Engineering**
-
-**REST APIs**
-
-**PostgreSQL**
-
-**Backend Systems**
+`Data Engineering`  
+`Feature Engineering`  
+`REST APIs`  
+`PostgreSQL`  
+`Backend Systems`
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td align="center" width="33%">
 
 ### SYSTEMS / IoT
 
-<br>
-
-**IoT**
-
-**Edge Systems**
-
-**Sensors**
-
-**Real-Time Systems**
-
-**Intelligent Applications**
+`IoT`  
+`Edge Systems`  
+`Sensors`  
+`Real-Time Systems`  
+`Intelligent Applications`
 
 </td>
 
 </tr>
 </table>
 
----
+</div>
 
-<!-- =========================================================
-     TECH STACK
-========================================================= -->
+---
 
 ## `> tech --stack`
 
+<div align="center">
+
 ### Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,php,typescript&perline=5" alt="Languages"/>
-</p>
+<img
+  src="https://skillicons.dev/icons?i=python,c,cpp,php,typescript&perline=5"
+  alt="Programming Languages"
+/>
+
+<br><br>
 
 ### Backend / Data
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker&perline=4" alt="Backend and Data"/>
-</p>
+<img
+  src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker&perline=4"
+  alt="Backend and Data"
+/>
+
+<br><br>
 
 ### Frontend / Systems
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,linux,git,github&perline=5" alt="Frontend and Systems"/>
-</p>
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,linux,git,github&perline=5"
+  alt="Frontend and Systems"
+/>
+
+</div>
 
 ---
-
-<!-- =========================================================
-     SELECTED PROJECTS
-========================================================= -->
 
 ## `> ls ./projects`
 
@@ -191,7 +159,7 @@ to **backend systems, APIs, deployment, and IoT**.
 
 <td width="50%" valign="top">
 
-### `01` — FloodTrace
+### `01` FloodTrace
 
 **Flood & Environmental Intelligence**
 
@@ -199,13 +167,11 @@ A geospatial platform focused on flood conditions,
 real-world data, environmental context, and
 evidence-driven analysis.
 
-```text
-FastAPI
-PostgreSQL
-React
-TypeScript
-Geospatial Data
-```
+<br>
+
+`FastAPI` `PostgreSQL` `React` `TypeScript`
+
+<br><br>
 
 <a href="https://github.com/Chalermsak1/FloodTrace">
   <strong>OPEN PROJECT →</strong>
@@ -215,20 +181,19 @@ Geospatial Data
 
 <td width="50%" valign="top">
 
-### `02` — Nexvia Aegis
+### `02` Nexvia Aegis
 
 **AI / Security Engineering**
 
 An engineering project exploring intelligent
-software systems, security concepts, automation,
-and defensive technologies.
+software systems, automation, and
+defensive security technologies.
 
-```text
-Python
-AI
-Security
-Automation
-```
+<br>
+
+`Python` `AI` `Security` `Automation`
+
+<br><br>
 
 <a href="https://github.com/Chalermsak1/nexvia-aegis">
   <strong>OPEN PROJECT →</strong>
@@ -242,7 +207,7 @@ Automation
 
 <td width="50%" valign="top">
 
-### `03` — KMITL Flood Intelligence
+### `03` KMITL Flood Intelligence
 
 **Real-Time Flood Intelligence**
 
@@ -250,13 +215,11 @@ A system combining incident reports,
 geospatial information, backend services,
 and real-time data delivery.
 
-```text
-FastAPI
-PostgreSQL
-Next.js
-SSE
-Geospatial
-```
+<br>
+
+`FastAPI` `PostgreSQL` `Next.js` `SSE`
+
+<br><br>
 
 <a href="https://github.com/Chalermsak1/KMITL-Flood-Intelligence">
   <strong>OPEN PROJECT →</strong>
@@ -266,19 +229,18 @@ Geospatial
 
 <td width="50%" valign="top">
 
-### `04` — DeepLog HDFS Anomaly Detection
+### `04` DeepLog HDFS Anomaly Detection
 
 **Distributed Log Anomaly Detection**
 
-A machine-learning project focused on detecting
+A machine-learning project focused on identifying
 abnormal patterns in distributed-system logs.
 
-```text
-Python
-Machine Learning
-Log Analysis
-Data
-```
+<br>
+
+`Python` `Machine Learning` `Log Analysis`
+
+<br><br>
 
 <a href="https://github.com/Chalermsak1/DeepLog-HDFS-Anomaly-Detection">
   <strong>OPEN PROJECT →</strong>
@@ -291,11 +253,9 @@ Data
 
 ---
 
-<!-- =========================================================
-     ARCHITECTURE
-========================================================= -->
+## `> engineering.pipeline`
 
-## `> architecture.pipeline`
+<div align="center">
 
 ```mermaid
 flowchart LR
@@ -314,25 +274,20 @@ flowchart LR
     D --> E
     E --> F
     F --> G
-
     G -. FEEDBACK .-> A
 ```
 
-<p align="center">
+<br>
 
-```text
-Collect → Understand → Predict → Serve → Deploy → Learn
-```
+`Collect` → `Process` → `Learn` → `Serve` → `Deploy` → `Improve`
 
-</p>
+</div>
 
 ---
 
-<!-- =========================================================
-     ACHIEVEMENTS
-========================================================= -->
-
 ## `> achievements`
+
+<div align="center">
 
 <table>
 <tr>
@@ -341,13 +296,12 @@ Collect → Understand → Predict → Serve → Deploy → Learn
 
 ### SUPER AI ENGINEER S5
 
-Selected for the **Engineer Track**
-from a large applicant pool.
+**Engineer Track**
 
-```text
-Track : AI Engineering
-Focus : AI / ML
-```
+Selected from a large applicant pool
+for an AI engineering program.
+
+`AI Engineering`
 
 </td>
 
@@ -360,11 +314,7 @@ Focus : AI / ML
 Built an AI-driven customer analytics
 and personalization solution.
 
-```text
-LSTM / GRU
-Attention
-Customer Analytics
-```
+`LSTM` `GRU` `Attention`
 
 </td>
 
@@ -376,15 +326,11 @@ Customer Analytics
 
 ### BDI Young Innovator Hackathon 2026
 
-Worked on a complaint intelligence
-and data-driven dashboard.
+Built a complaint intelligence
+and dashboard system using NLP
+and machine learning.
 
-```text
-NLP
-TF-IDF
-Logistic Regression
-FastAPI
-```
+`TF-IDF` `Logistic Regression` `FastAPI`
 
 </td>
 
@@ -392,31 +338,27 @@ FastAPI
 
 ### Other Highlights
 
-```text
-Krungsri UniVerse x KMITL
+**Krungsri UniVerse × KMITL**  
 Popular Vote Award
 
-Plant Health ML
+**Plant Health ML**  
 Honorable Mention
 
-BabyVoice CNN
+**BabyVoice CNN**  
 Best Project
-```
 
 </td>
 
 </tr>
 </table>
 
----
+</div>
 
-<!-- =========================================================
-     GITHUB STATS
-========================================================= -->
+---
 
 ## `> github --stats`
 
-<p align="center">
+<div align="center">
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Chalermsak1&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent"
@@ -430,9 +372,7 @@ Best Project
   alt="Top Languages"
 />
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img
   src="https://streak-stats.demolab.com?user=Chalermsak1&hide_border=true&theme=transparent"
@@ -440,13 +380,9 @@ Best Project
   alt="GitHub Streak"
 />
 
-</p>
+</div>
 
 ---
-
-<!-- =========================================================
-     CONTRIBUTION
-========================================================= -->
 
 ## `> contribution --visualize`
 
@@ -476,105 +412,107 @@ Best Project
 
 ---
 
-<!-- =========================================================
-     BUILD PHILOSOPHY
-========================================================= -->
+## `> current.direction`
+
+<div align="center">
+
+### BUILDING ACROSS THE STACK
+
+<br>
+
+`AI / ML`
+&nbsp;&nbsp;→&nbsp;&nbsp;
+`DATA`
+&nbsp;&nbsp;→&nbsp;&nbsp;
+`BACKEND`
+&nbsp;&nbsp;→&nbsp;&nbsp;
+`SYSTEMS`
+
+<br><br>
+
+**AI / ML**
+
+`Machine Learning` · `Computer Vision` · `NLP`
+
+<br>
+
+**DATA**
+
+`Data Pipelines` · `Feature Engineering` · `Analytics`
+
+<br>
+
+**BACKEND**
+
+`APIs` · `PostgreSQL` · `Deployment`
+
+<br>
+
+**SYSTEMS**
+
+`IoT` · `Edge` · `Real-Time`
+
+</div>
+
+---
 
 ## `> build.philosophy`
+
+<div align="center">
 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 01
 
 **DATA**
 
-Understand the signal before
-building the system.
+Understand the signal.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 02
 
 **MODEL**
 
-Turn information into
-useful intelligence.
+Turn information into intelligence.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 03
 
 **SYSTEM**
 
-Connect models to reliable
-software and APIs.
+Connect models to software.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 04
 
 **IMPACT**
 
-Deploy ideas into
-real-world use.
+Put it into the real world.
 
 </td>
 
 </tr>
 </table>
 
----
-
-<!-- =========================================================
-     CURRENT DIRECTION
-========================================================= -->
-
-## `> current.direction`
-
-```text
-AI ENGINEERING
-      │
-      ├── Machine Learning
-      ├── Computer Vision
-      └── Intelligent Systems
-
-DATA ENGINEERING
-      │
-      ├── Data Pipelines
-      ├── Feature Engineering
-      └── Analytics
-
-BACKEND ENGINEERING
-      │
-      ├── APIs
-      ├── PostgreSQL
-      └── Deployment
-
-IoT / SYSTEMS
-      │
-      ├── Sensors
-      ├── Edge Systems
-      └── Real-World Applications
-```
+</div>
 
 ---
-
-<!-- =========================================================
-     FOOTER / CONTACT
-========================================================= -->
-
-<div align="center">
 
 ## `> connect`
+
+<div align="center">
 
 <a href="https://github.com/Chalermsak1">
   <img
@@ -592,14 +530,26 @@ IoT / SYSTEMS
 
 <br><br>
 
+`AI / ML` &nbsp; `DATA` &nbsp; `BACKEND` &nbsp; `IoT`
+
+<br><br>
+
+**Open to building interesting systems.**
+
+<br><br>
+
 ```text
 BUILD SOMETHING USEFUL.
 ```
 
+</div>
+
 <br>
 
+<div align="center">
+
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e293b,50:0f172a,100:020617"
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1e293b,50:0f172a,100:020617"
   width="100%"
   alt="Footer"
 />
