@@ -10,3 +10,9 @@
     alt="Typing SVG"
   />
 </p>
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,react,nextjs,postgres,mysql,docker,git,github,linux">
+</p>
