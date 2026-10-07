@@ -1,56 +1,67 @@
+<!-- =========================
+     HERO
+========================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=CHALERMSAK%20SINSROK&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20DATA%20%E2%80%A2%20BACKEND%20%E2%80%A2%20IOT&descSize=17&descAlignY=58&color=0:020617,50:0f172a,100:1e293b" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=CHALERMSAK%20SINSROK&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%2F%20ML%20%E2%80%A2%20DATA%20%E2%80%A2%20BACKEND%20%E2%80%A2%20IOT&descSize=17&descAlignY=58&color=0:020617,50:0f172a,100:1e293b"
+  width="100%"
+  alt="Chalermsak Sinsrok"
+/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&multiline=false&width=720&height=45&lines=%5B+SYSTEM+READY+%5D;Building+Intelligent+Systems;Turning+Data+into+Real-World+Systems;AI+%2F+ML+%7C+Backend+%7C+Data+%7C+IoT" alt="Typing"/>
+<img
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&pause=1100&center=true&vCenter=true&width=760&height=45&lines=%5B+SYSTEM+READY+%5D;Building+Intelligent+Systems;Turning+Data+into+Real-World+Systems;AI+%2F+ML+%7C+Backend+%7C+Data+%7C+IoT"
+  alt="Typing animation"
+/>
 
-<br/>
+<br>
 
 <a href="https://github.com/Chalermsak1">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/chalermsak-sinsrok-b416a3365/">
+  <img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
+
+<br>
 
 ---
 
 ## `> whoami`
 
 ```text
-Name        : Chalermsak Sinsrok
-Role        : Engineering Student
-Interests   : AI / ML / Data / Backend / IoT
-Mindset     : Build → Test → Deploy → Iterate
+NAME        : Chalermsak Sinsrok
+ROLE        : Engineering Student
+INTERESTS   : AI / ML / Data / Backend / IoT
+MINDSET     : Build → Test → Deploy → Iterate
 
-Current Direction
+MISSION
 ────────────────────────────────────────────
-AI Engineering
-Machine Learning
-Data Engineering
-Backend Systems
-Intelligent IoT
+Build intelligent systems that connect
+data, models, software, and the real world.
 ```
 
 ---
 
-## `> system.focus`
+## `> focus`
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
 ### AI / ML
 
-```text
-Machine Learning
-Computer Vision
-NLP
-Predictive Analytics
-Model Development
-```
+<br>
+
+`Machine Learning`  
+`Computer Vision`  
+`NLP`  
+`Predictive Analytics`  
+`Model Development`
 
 </td>
 
@@ -58,13 +69,13 @@ Model Development
 
 ### DATA / BACKEND
 
-```text
-Data Pipelines
-Feature Engineering
-REST APIs
-PostgreSQL
-Backend Architecture
-```
+<br>
+
+`Data Engineering`  
+`Feature Engineering`  
+`REST APIs`  
+`PostgreSQL`  
+`Backend Systems`
 
 </td>
 
@@ -72,15 +83,16 @@ Backend Architecture
 
 ### SYSTEMS / IoT
 
-```text
-IoT
-Edge Systems
-Sensors
-Real-Time Systems
-Intelligent Applications
-```
+<br>
+
+`IoT`  
+`Edge Systems`  
+`Sensors`  
+`Real-Time Systems`  
+`Intelligent Apps`
 
 </td>
+
 </tr>
 </table>
 
@@ -88,11 +100,11 @@ Intelligent Applications
 
 ## `> tech --stack`
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,react,nextjs,postgres,mysql,docker,git,github,linux&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,react,nextjs,postgres,mysql,docker,git,github,linux&perline=6" alt="Tech Stack"/>
 
-</p>
+</div>
 
 ---
 
@@ -103,47 +115,44 @@ Intelligent Applications
 
 <td width="50%" valign="top">
 
-### `01` — FloodTrace
+### `01` FloodTrace
 
-> Flood & environmental intelligence
+**Flood & Environmental Intelligence**
 
-A real-world data driven system focused on
-geospatial information, flood conditions,
-and evidence-based analysis.
+A real-world data-driven platform focused on
+flood conditions, geospatial information,
+and evidence-based environmental analysis.
 
-```text
-FastAPI
-PostgreSQL
-React
-TypeScript
-Geospatial Data
-```
+**Stack**
+
+`FastAPI` `PostgreSQL` `React` `TypeScript`
+
+<br>
 
 <a href="https://github.com/Chalermsak1/FloodTrace">
-View Project →
+  <strong>View Repository →</strong>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `02` — Nexvia Aegis
+### `02` Nexvia Aegis
 
-> AI / Security Engineering
+**AI / Security Engineering**
 
-A security-focused engineering project
-exploring intelligent software systems,
-automation, and defensive technologies.
+An engineering project exploring
+intelligent systems, automation,
+and defensive security technologies.
 
-```text
-Python
-AI
-Security
-Automation
-```
+**Stack**
+
+`Python` `AI` `Security` `Automation`
+
+<br>
 
 <a href="https://github.com/Chalermsak1/nexvia-aegis">
-View Project →
+  <strong>View Repository →</strong>
 </a>
 
 </td>
@@ -154,46 +163,43 @@ View Project →
 
 <td width="50%" valign="top">
 
-### `03` — KMITL Flood Intelligence
+### `03` KMITL Flood Intelligence
 
-> Real-time flood intelligence
+**Real-Time Flood Intelligence**
 
-Combining incident reports, geospatial
-information, backend services, and
-real-time system design.
+Combining incident reports, geospatial data,
+backend services, and real-time system design.
 
-```text
-FastAPI
-PostgreSQL
-Next.js
-Geospatial
-SSE
-```
+**Stack**
+
+`FastAPI` `PostgreSQL` `Next.js` `SSE`
+
+<br>
 
 <a href="https://github.com/Chalermsak1/KMITL-Flood-Intelligence">
-View Project →
+  <strong>View Repository →</strong>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `04` — DeepLog HDFS Anomaly Detection
+### `04` DeepLog HDFS Anomaly Detection
 
-> Log anomaly detection
+**Distributed Log Anomaly Detection**
 
-Exploring anomaly detection on distributed
-system logs and identifying abnormal patterns.
+Exploring machine learning techniques
+for identifying abnormal patterns
+in distributed system logs.
 
-```text
-Python
-Machine Learning
-Log Analysis
-Data
-```
+**Stack**
+
+`Python` `Machine Learning` `Log Analysis`
+
+<br>
 
 <a href="https://github.com/Chalermsak1/DeepLog-HDFS-Anomaly-Detection">
-View Project →
+  <strong>View Repository →</strong>
 </a>
 
 </td>
@@ -203,88 +209,85 @@ View Project →
 
 ---
 
-## `> pipeline.run`
+## `> engineering.pipeline`
+
+<div align="center">
 
 ```text
-                    REAL-WORLD DATA
-                           │
-                           ▼
-                 ┌──────────────────┐
-                 │ Data Collection  │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ Data Processing  │
-                 │ Feature Engineer │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │   AI / ML Model  │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ Backend / API    │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │    Deployment    │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ Intelligent App  │
-                 └──────────────────┘
+┌──────────────┐
+│ REAL-WORLD   │
+│    DATA      │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ DATA         │
+│ PROCESSING   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ AI / ML      │
+│ MODEL        │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ BACKEND      │
+│ API / DATA   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ DEPLOYMENT   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ REAL-WORLD   │
+│ APPLICATION  │
+└──────────────┘
 ```
+
+</div>
 
 ---
 
 ## `> github --stats`
 
-<p align="center">
+<div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Chalermsak1&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github"
-height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Chalermsak1&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent"
+  height="180"
+  alt="GitHub Stats"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalermsak1&layout=compact&hide_border=true&langs_count=8"
-height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalermsak1&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+  height="180"
+  alt="Top Languages"
 />
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=Chalermsak1&hide_border=true"
-height="180"
+  src="https://streak-stats.demolab.com?user=Chalermsak1&hide_border=true&theme=transparent"
+  height="180"
+  alt="GitHub Streak"
 />
 
-</p>
-
----
-
-## `> git log --activity`
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Chalermsak1&hide_border=true&area=true&radius=10"
-width="100%"
-/>
-
-</p>
+</div>
 
 ---
 
 ## `> contribution --visualize`
 
-<p align="center">
+<div align="center">
 
 <picture>
   <source
@@ -302,44 +305,47 @@ width="100%"
   />
 </picture>
 
-</p>
+</div>
 
 ---
 
 ## `> current.mission`
 
 ```text
-[██████████████████████████████████████] 100%
-
-Build intelligent systems
-that connect
+[████████████████████████████████████████] 100%
 
 DATA
-  ↓
+ ↓
 AI / ML
-  ↓
+ ↓
 BACKEND
-  ↓
+ ↓
 DEPLOYMENT
-  ↓
+ ↓
 REAL WORLD
 ```
 
 ---
 
-## `> connect`
-
 <div align="center">
 
+## `> connect`
+
 <a href="https://github.com/Chalermsak1">
-<img src="https://img.shields.io/badge/GitHub-View%20Repositories-020617?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-020617?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/chalermsak-sinsrok-b416a3365/">
+  <img
+    src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
-<br/><br/>
+<br><br>
 
 ```text
 BUILD SOMETHING USEFUL.
@@ -347,6 +353,8 @@ BUILD SOMETHING USEFUL.
 
 </div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e293b,50:0f172a,100:020617" width="100%"/>
-</p>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1e293b,50:0f172a,100:020617"
+  width="100%"
+  alt="Footer"
+/>
