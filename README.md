@@ -1,9 +1,9 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=CHALERMSAK%20SINSROK&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20DATA%20%E2%80%A2%20BACKEND%20%E2%80%A2%20IOT&descSize=17&descAlignY=58&color=0:020617,50:0f172a,100:1e293b"
+  src="assets/banner.svg"
   width="100%"
-  alt="Chalermsak Sinsrok"
+  alt="Chalermsak Sinsrok — AI • ML • DATA • BACKEND • IOT"
 />
 
 <br>
