@@ -4,8 +4,6 @@
 
 <sub>KMITL Dual Degree (IoT Engineering &amp; Industrial Physics) · AIoT Security Lab · Nexvia Core · 42 Bangkok · GDG on Campus KMITL</sub>
 
-<img src="assets/highlights.svg" alt="90.05% Log Anomaly SOTA, 0.29 µs eBPF + HDC Latency, 3rd Place CAI Camp &amp; NCSA CTF, 450+ Automated Tests" width="100%" />
-
 <br/>
 
 <h3>Research</h3>
